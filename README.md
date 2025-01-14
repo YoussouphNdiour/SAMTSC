@@ -1,4 +1,4 @@
-# flutter_sixvalley_ecommerce
+# Tech Supply Connect
 
 A new Flutter setup application for starting a project.
 
